@@ -12,3 +12,8 @@
 - Android 各种小点练习，动画、自定义 View 相关练习
 
 
+8.6日 Day1
+1. 《算法 4》Chapter 1 学习。课后练习完成 50%
+ 
+2. 学习Binder Native 层 Client 访问服务 过程
+
