@@ -21,3 +21,10 @@
 2. Binder Native 层 大体看完（部分细节还模糊）
 
 3. Effective Java 3 Item 1 进度50%
+
+8.8日 Day3
+1. 《算法 4》Chapter 2 结束（课后练习未做）
+
+2. 根据视频巩固冒泡、选择、插入排序
+
+3. Effective Java 3 Item 1 结束
